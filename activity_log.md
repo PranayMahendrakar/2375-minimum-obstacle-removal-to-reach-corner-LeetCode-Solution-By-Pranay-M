@@ -4,3 +4,4 @@
 - [2026-04-08T09:20:39Z] test: add unit tests for core module
 - [2026-04-08T22:37:31Z] feat: add helper utility function
 - [2026-04-08T10:55:43Z] refactor: simplify conditional logic
+- [2026-04-08T10:46:38Z] style: apply consistent code formatting
